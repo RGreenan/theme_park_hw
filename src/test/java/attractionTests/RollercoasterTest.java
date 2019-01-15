@@ -1,3 +1,5 @@
+package attractionTests;
+
 import attractions.Rollercoaster;
 import org.junit.Before;
 import org.junit.Test;

@@ -1,3 +1,5 @@
+package attractionTests;
+
 import attractions.Dodgems;
 import org.junit.Before;
 import org.junit.Test;
